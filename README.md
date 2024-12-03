@@ -1,17 +1,7 @@
-## 🚀 Tecnologias:
-- Vue
-- JavaScript
-- HTML
-- Scss
-- Git e Github
-- Figma
+
 
 ## 💻 Projeto
-Mais um pequeno projeto finalizado do curso da Vai na Web, dessa vez utilizando o Vue, criando a minha primeira página com uma pequena interação entre o usuário e a página onde o usuário pode curtir os posts que foram "publicados".
-
-## 🔖 Layout
-Você pode visualizar o layout do projeto através do link: https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=0-1&node-type=canvas&t=BXeM0w083SEPz21I-0
-. É necessário ter conta no Figma para acessá-lo.
+Mais um pequeno projeto finalizado do curso da Vai na Web, dessa vez utilizando o Vue. Criando a minha primeira página em Vue com uma pequena interação entre o usuário e a página onde o usuário pode curtir os posts que foram "publicados".
 
 Veja mais abaixo a página sem os likes:
 
@@ -25,4 +15,16 @@ Agora, a página com os likes:
 
 ![image](https://github.com/user-attachments/assets/385f88be-173f-431a-bae1-817b9dbb6cc4)
 
-Feito com ♥ por Rossana Frouf
+## 🚀 Tecnologias:
+- Vue
+- JavaScript
+- HTML
+- Scss
+- Git e Github
+- Figma
+
+## 🔖 Layout
+Você pode visualizar o layout do projeto através do link: https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=0-1&node-type=canvas&t=BXeM0w083SEPz21I-0
+. É necessário ter conta no Figma para acessá-lo.
+
+ <h2 align="center"> Feito com ♥ por Rossana Frouf </h2>
